@@ -1,0 +1,6 @@
+{
+  "name": "Smart Invoice Manager",
+  "description": "Production-ready cross-platform Invoice & Business Management system with PDF generation, payments, customers, inventory, expenses, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

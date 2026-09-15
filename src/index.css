@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.font-urdu {
+  font-family: "Noto Nastaliq Urdu", serif, system-ui;
+}
+
+.font-arabic {
+  font-family: "Alexandria", system-ui, sans-serif;
+}
+
+.font-hindi {
+  font-family: "Noto Sans Devanagari", "Plus Jakarta Sans", system-ui, sans-serif;
+}
